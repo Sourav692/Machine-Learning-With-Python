@@ -1,0 +1,261 @@
+Chapter 1: Getting started with Python Language
+Chapter 2: Python Data Types
+Chapter 3: Indentation
+Chapter 4: Comments and Documentation
+Chapter 5: Date and Time
+Chapter 6: Date Formatting
+Chapter 7: Enum
+Chapter 8: Set
+Chapter 9: Simple Mathematical Operators
+Chapter 10: Bitwise Operators
+Chapter 11: Boolean Operators
+Chapter 12: Operator Precedence
+Chapter 13: Variable Scope and Binding
+Chapter 14: Conditionals
+Chapter 15: Comparisons
+Chapter 16: Loops
+Chapter 17: Arrays
+Chapter 18: Multidimensional arrays
+Chapter 19: Dictionary
+Chapter 20: List
+Chapter 21: List comprehensions
+Chapter 22: List slicing (selecting parts of lists)
+Chapter 23: groupby()
+Chapter 24: Linked lists
+Chapter 25: Linked List Node
+Chapter 26: Filter
+Chapter 27: Heapq
+Chapter 28: Tuple
+Chapter 29: Basic Input and Output  ***
+Chapter 30: Files & Folders I/O     ***
+Chapter 31: os.path  	***              
+Chapter 32: Iterables and Iterators ***
+Chapter 33: Functions ***
+Chapter 34: Defining functions with list arguments ***
+Chapter 35: Functional Programming in Python ***
+Chapter 36: Partial functions  ***
+Chapter 37: Decorators   *******
+Chapter 38: Classes     -------------------
+Chapter 39: Metaclasses -------------------
+Chapter 40: String Formatting
+Chapter 41: String Methods
+Chapter 42: Using loops within functions
+Chapter 43: Importing modules
+Chapter 44: Dierence between Module and Package
+Chapter 45: Math Module
+Chapter 46: Complex math
+Chapter 47: Collections module
+Chapter 48: Operator module
+Chapter 49: JSON Module
+Chapter 50: Sqlite3 Module
+Chapter 51: The os Module
+===============================================================================
+
+Chapter 52: The locale Module
+Chapter 53: Itertools Module
+Chapter 54: Asyncio Module
+Chapter 55: Random module
+Chapter 56: Functools Module
+Chapter 57: The dis module
+Chapter 58: The base64 Module
+Chapter 59: Queue Module
+Chapter 60: Deque Module
+Chapter 61: Webbrowser Module
+Chapter 62: tkinter
+Chapter 63: pyautogui module
+Chapter 64: Indexing and Slicing
+Chapter 65: Plotting with Matplotlib
+Chapter 66: graph-tool
+Chapter 67: Generators
+========================================================================================
+
+Chapter 68: Reduce
+Chapter 69: Map Function
+Chapter 70: Exponentiation
+Chapter 71: Searching
+Chapter 72: Sorting, Minimum and Maximum
+Chapter 73: Counting
+Chapter 74: Writing extensions
+Chapter 75: The Print Function
+Chapter 76: Regular Expressions (Regex)
+Chapter 77: Copying data
+Chapter 78: Context Managers (“with” Statement)
+Chapter 79: The __name__ special variable
+Chapter 80: Checking Path Existence and Permissions
+Chapter 81: Creating Python packages
+Chapter 82: Usage of "pip" module: PyPI Package Manager
+Chapter 83: pip: PyPI Package Manager
+Chapter 84: Parsing Command Line arguments
+Chapter 85: Subprocess Library
+Chapter 86: setup.py
+Chapter 87: Recursion
+Chapter 88: Type Hints
+Chapter 89: Exceptions
+Chapter 90: Raise Custom Errors / Exceptions
+Chapter 91: Commonwealth Exceptions
+Chapter 92: urllib
+Chapter 93: Web scraping with Python
+Chapter 94: HTML Parsing
+Chapter 95: Manipulating XML
+Chapter 96: Python Requests Post
+Chapter 97: Distribution
+Chapter 98: Property Objects
+Chapter 99: Overloading
+Chapter 100: Polymorphism
+Chapter 101: Method Overriding
+Chapter 102: User-Defined Methods
+Chapter 103: String representations of class instances: __str__ and __repr__ methods
+Chapter 104: Debugging
+Chapter 105: Reading and Writing CSV
+Chapter 106: Dynamic code execution with `exec` and `eval`
+Chapter 107: PyInstaller - Distributing Python Code
+Chapter 108: Data Visualization with Python
+Chapter 109: The Interpreter (Command Line Console)
+Chapter 110: *args and **kwargs
+Chapter 111: Garbage Collection
+Chapter 112: Pickle data serialisation
+Chapter 113: Binary Data
+Chapter 114: Idioms
+Chapter 115: Data Serialization
+Chapter 116: Multiprocessing
+Chapter 117: Multithreading
+Chapter 118: Processes and Threads
+Chapter 119: Python concurrency
+Chapter 120: Parallel computation
+Chapter 126: Flask
+Chapter 130: Input, Subset and Output External Data Files using Pandas
+Chapter 131: Writing to CSV from String or List
+Chapter 132: Unzipping Files
+Chapter 133: Working with ZIP archives
+Chapter 134: Getting start with GZip
+Chapter 135: Stack
+Chapter 149: Immutable datatypes(int, float, str, tuple and frozensets)
+Chapter 161: The pass statement
+Chapter 163: Database Access
+Chapter 164: Connecting Python to SQL Server
+Chapter 166: Python and Excel
+Chapter 172: Mutable vs Immutable (and Hashable) in Python
+Chapter 175: Virtual environments
+Chapter 176: Python Virtual Environment - virtualenv
+Chapter 177: Virtual environment with virtualenvwrapper
+Chapter 178: Create virtual environment with virtualenvwrapper in windows
+Chapter 179: sys
+Chapter 187: kivy - Cross-platform Python Framework for NUI Development
+Chapter 188: Pandas Transform: Preform operations on groups and concatenate the results
+Chapter 193: Unit Testing
+Chapter 194: py.test
+Chapter 195: Profiling
+Chapter 196: Python speed of program
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

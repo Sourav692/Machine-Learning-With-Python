@@ -1,0 +1,86 @@
+﻿Python – Introduction
+Python – Features
+Python – Pros and Cons
+Python – Applications
+Python – Career Opprtunities
+Python – For Data Science
+Python 3.6 Features
+Python – Install on Windows
+Python – Syntax
+Python – Comments, Indentations and Statements
+Python – Number Types
+Python – Variables and Data Types
+Python – Variable Scope
+Python – Strings
+Python – Operators
+Python – Bitwise Operators
+Python – Comparison Operators
+Python – Operator Overloading
+Python – Namespaces
+Python – Decision Making
+Python – Loops in Python
+Python – Functions
+Python – Function Arguments
+Python – Built-in Functions
+Python – Methods
+Python – Methods vs Functions
+Python – Range() method
+Python – Data Structures
+Python – Lists
+Python – Tuples
+Python – Tuples vs Lists
+Python – Collections Module   
+Python – Counters     
+Python – Namedtuples  
+Python – DefaultDict  
+Python – OrderedDict  
+Python – Dictionaries
+Python – DateTime
+Python – Modules
+Python – Serialization  
+Python – Packages
+Python – Python OS Modules
+Python – Virtual Environment
+Python – Modules vs Packages
+Python – Sets & Booleans
+Python – List Comprehension
+Python – Date and Time
+Python – Recursion
+Python – Lambda Expression
+Python – Decorators
+Python – Generators
+Python – Iterators
+Python – Iterables
+Python – Generators vs Iterators
+Python – Closures
+Python – Classes
+Python – Object
+Python – Inheritance
+Python – Multiple Inheritance
+Python – File I/O
+Python – File Handling
+Python – Errors and Exceptions
+Python – Exception Handling
+Python – Directories
+Python – Itertool
+Python – Property
+Python – Sequences and Collections
+Python – Multithreading  
+Python – Regular Expressions
+Python – Debugger
+Python – CGI Programming
+Python – Network Programming
+Python – Library
+Python – Frameworks
+Python – Forensics
+Python – Flask
+Python – Sending Email
+Python – GUI Programming
+Python – Best Python Books
+Python – Reasons why Learn Python
+Python – Terminologies Part 1
+Python – Terminologies Part 2
+Python vs Scala
+Python vs Java
+Python vs R
+

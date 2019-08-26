@@ -1,0 +1,296 @@
++============================================================5th April - 8th April=====================================================================
+GeekforGeeks:
+***************
+Functions:          
+----------
+Functions in Python
+class method vs static method in Python
+Write an empty function in Python – pass statement
+Yield instead of Return
+Return Multiple Values
+Partial Functions in Python
+First Class functions in Python
+Precision Handling
+*args and **kwargs
+Python closures
+Function Decorators
+Decorators in Python
+Decorators with parameters in Python
+Memoization using decorators in Python
+Help function in Python
+Python | __import__() function
+Python | range() does not return an iterator
+Coroutine
+Python bit functions on int (bit_length, to_bytes and from_bytes)      
+
+Modules in Python:   
+------------------
+Introduction of Modules
+Numeric Functions
+Logarithmic and Power Functions
+Trigonometric and Angular Functions
+Special Functions and Constants
+Inplace Operators – Set 1 Set 2
+Calendar Module
+Calendar Functions – Set 1 Set 2
+Complex Numbers – Introduction
+Complex Numbers -Important Functions and Constants
+Trigonometric and Hyperbolic Functions
+Time Functions in Python – Set 1, Set-2
+Random Numbers
+struct() module
+Python Urllib Module
+pprint
+eval()
+fraction()
+Pyautogui – Mouse Keyboard Automation
+Generate QR Code using pyqrcode module
+
+Control Flow:
+--------------
+Loops
+Loops and Control Statements (continue, break and pass) in Python
+Looping technique in python
+range vs xrange on python
+Programs for printing pyramid technique in python
+Chaining comparison in python
+else with for
+switch function
+Coroutine in Python
+Using iteration in python effectively
+Iterators in Python
+Iterators function in python| Set – 1
+Iterators function in python | set -2
+Python __iter__() and __next__() | Converting an object into an iterator
+Python | Difference between iterable and iterator
+Generators in python
+Generators expression in python
+
+https://www.python-course.eu
+*********************************
+
+Functions
+Recursion and Recursive Functions
+Parameter Passing in Functions
+Namespaces
+Global and Local Variables
+Decorators
+Memoization with Decorators
+Lambda Operator, Filter, Reduce and Map
+List Comprehension
+Iterators and Generators
+
+------------------------------
+Modular Programming and Modules
+Packages in Python
+
+============================================================9th April - 10th April=====================================================================
+
+GeekforGeeks:
+*********************************
+
+Data Types:      
+-----------
+Introduction – Data Types – List, Tuples and Iterations
+Strings
+Strings – Set 1, Set 2
+String Methods – Set 1 , Set 2 , Set 3
+Logical Operators on String
+Split a string
+String Formatting using %
+String Template Class
+Python Docstrings
+List
+Comprehension and slicing
+List Methods in Python – Set 1 Set 2 Set 3
+Tuples
+Tuples
+Set
+Sets
+Arrays
+Array in Python – Set 1, Set 2
+Dictionary
+Dictionary Methods – Set 1, Set 2
+Get() method for dictionaries
+Handling missing keys of dictionary
+Chainmap
+orderDict()
+
+https://www.python-course.eu
+*********************************
+
+Data Types and Variables
+Operators
+Sequential Data Types: Lists and Strings
+List Manipulations
+Shallow and Deep Copy
+Dictionaries
+Sets and Frozen Sets
+ 19 - 21Feb
+Data Types and Variables
+input via the keyboard
+Conditional Statements
+Loops, while Loop
+For Loops
+Output with Print
+Formatted output with string modulo and the format method
+
+
+============================================================11th April - 12th April===============================================================================
+GeekforGeeks:
+*********************************
+Exception Handling:  
+-------------------------	
+Exception handling
+User defined Exception
+Built-in Exception
+clean up action
+Nzec error
+Python | 404 Error handling in Flask
+try and except in Python
+Defining Clean Up Actions in Python
+
+Basics:
+-------
+Introduction and Writing first code
+An Informal Introduction – Python Blog
+Python 2.x vs Python 3.x
+Keywords in Python – Introduction, Set 1, Set 2	
+
+
+https://www.python-course.eu
+*********************************
+Exception Handling
+
+============================================================13th April- 15th April===================================================================
+
+GeekforGeeks:
+*********************************
+Libraries and Functions: 
+-----------------------------
+Timit function
+Numpy- Set 1 , Set 2
+Get and Post
+Regular Expressions – Set 1, Set 2
+OS module
+Copy module – Deep vs Shallow copy
+Import module
+Reload module
+Collection module
+DeQue
+NamedTuple
+Heap
+Enum module
+Statistical Functions – Set 1, Set 2
+Bisect module
+Decimal Functions – Set 1, Set 2
+NetworkX
+getpass() and getuser()
+Reading and Generating QR codes
+fnmatch
+Unicodedata – Unicode Database
+Textwrap – Text wrapping and filling
+Generating Secure random numbers
+pickle — Python object serialization
+Understanding Python Pickling with example
+copyreg — Register pickle support functions
+Python GUI – tkinter
+
+
+https://www.python-course.eu
+*********************************
+Regular Expressions
+Regular Expressions, Advanced
+
+---------------------------------
+Read and Write Files
+
+
+============================================================16th April -18th April===================================================================
+GeekforGeeks:
+*********************************
+Object Oriented Concepts and Class and object:
+----------------------------------------------	
+Object Oriented Programming – Set 1
+Set 2 – Data Hiding and Object Printing
+Set 3 – Inheritance,object,issubclass and super
+Class or Static Variable
+class vs static method
+Changing Class Members
+First Class functions	
+
+Variables:    
+----------
+Variables, Expressions & Functions
+Maximum possible value of an integer
+Transpose a matrix in Single line
+Global and Local Variables
+Partial Functions
+Packing and Unpacking Arguments
+end parameter
+Type Conversion
+Byte objects vs Strings
+
+
+https://www.python-course.eu
+*********************************
+Tests, DocTests, UnitTests
+Object Oriented Programming
+Class and Instance Attributes
+Properties vs. getters and setters
+Inheritance
+Multiple Inheritance
+Magic Methods and Operator Overloading
+OOP, Inheritance Example
+Slots
+Classes and Class Creation
+Road to Metaclasses
+Metaclasses
+Metaclass Use Case: Count Function Calls
+Abstract Classes
+
+============================================================19th April-25th April===================================================================
+
+Revision
+
+
+============================================================26th April-30th April===================================================================
+MISC:  
+--------
+Input multiple values from user in one line
+Command Line and Variable Arguments
+Truncate()
+Print single and multiple variables
+10 interesting facts about Python
+Generate all permutations of a list
+Swap two variables in one line
+str() vs repr()
+Command Line Interface Programming
+Check if a valid keyword of Python
+sep parameter in print
+json format
+Quine
+First non-repeating character from a stream of characters
+Permutation and Combination
+end parameter in print()
+Python Input Methods for Competitive Programming
+Amazing hacks of Python
+Short Circuiting Techniques
+Formatted text in Linux Terminal
+Optimization Tips for Python Code
+Understanding Code Reuse and Modularity
+Difference between various Implementations of Python
+NZEC error
+Program to calculate the Round Trip Time (RTT)
+Quickly convert Decimal to other bases
+Reading and Writing to text files
+Using else conditional statement with for loop
+SQL using Python
+MongoDB and Python
+Defining Clean Up Actions
+Metaprogramming with Metaclasses
+Python Virtual Environment
+Program to check if a string is palindrome or not
+Vulnerability in input() function – Python 2.x
+File objects
+XML Parsing	
